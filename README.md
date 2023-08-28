@@ -1,2 +1,2 @@
-# Mini-Simulador-Uchiha-Sasuke <img src="images/pupila1.png" alt="Sharingan eterno do sasuke" width="50%" height="50%"> <img src="images/pupila2.png" alt="Rinnegan do sasuke" width="50%" height="50%">
+# Mini-Simulador-Uchiha-Sasuke <img src="images/pupila1.png" alt="Sharingan eterno do sasuke" width="5%" height="5%"> <img src="images/pupila2.png" alt="Rinnegan do sasuke" width="5%" height="5%">
 Esse é um mini simulador do Uchiha Sasuke onde o mouse é uma shuriken e o olho do Sasuke fica movendo para a shuriken e que pode ativar o sharingan, esse mini projeto foi feito durante as minhas aulas simples mas que eu fiz algo melhor e mais complexo que pedido.
